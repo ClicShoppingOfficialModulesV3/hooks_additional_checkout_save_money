@@ -15,7 +15,7 @@
   "type_module":      "Fixe",
   "dependance":       "ms_shopping_cart_products_listing",
   "description":        "This hooks allow you to display an information to your customer to save money when it take an order",
-  "image":            "",
+  "image":            "ModuleInfosJson/save_money_message.png",
 
   "authors": [
     {
