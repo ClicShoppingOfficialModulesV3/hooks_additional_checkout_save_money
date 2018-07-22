@@ -12,6 +12,6 @@ Copy the Includes directory into your website
 Copy the hooks_additional_checkout_save_money.json into ClicShopping/Work/Cache/github
 
 See Marketplace for all informations
-link : https://www.clicshopping.org/forum/files/file/3-hooks-additional-checkout-save-money/
+link : https://www.clicshopping.org/forum/files/file/42-hooks-additional-checkout-save-money/
 
 ![save_monney](https://github.com/ClicShoppingOfficialModulesV3/hooks_additional_checkout_save_money/blob/master/ModuleInfosJson/save_money_message.png)
