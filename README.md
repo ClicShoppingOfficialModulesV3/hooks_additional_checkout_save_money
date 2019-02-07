@@ -13,4 +13,15 @@ Copy the hooks_additional_checkout_save_money.json into ClicShopping/Work/Cache/
 
 See Marketplace for all informations
 link : https://www.clicshopping.org/forum/files/file/3-hooks-additional-checkout-save-money/
+
+
+ All informations about the ClicShopping
+
+Community : https://www.clicshopping.org
+Software : https://github.com/ClicShopping
+Official add on : https://github.com/ClicShoppingOfficialModulesV3
+Community add on : https://github.com/ClicShoppingV3Community
+trademark License info : https://www.clicshopping.org/forum/trademark/ 
+
+
 ![save_monney](https://github.com/ClicShoppingOfficialModulesV3/hooks_additional_checkout_save_money/blob/master/ModuleInfosJson/save_money_message.png)
